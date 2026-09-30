@@ -1,0 +1,4 @@
+interface:
+  display_name: "Questionnaire Design"
+  short_description: "Build questionnaires with verified routing and self-checks"
+  default_prompt: "Design or edit this questionnaire, then audit every respondent path, required state, and selection limit before saving or publishing."
